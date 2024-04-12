@@ -20,7 +20,7 @@ I thrive in fast-paced environments where I can leverage my problem-solving skil
 <p align="left">
 <a href="https://twitter.com/lalityadav008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalityadav008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/_.rohittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rohittt" height="30" width="40" /></a>
+<a href="https://instagram.com/_.rohitttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rohitttt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lalityadav008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalityadav008" height="30" width="40" /></a>
 </p>
 
